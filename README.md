@@ -16,8 +16,7 @@
 <br>
 
 ### ABOUT ME
-- I'm not just another developer – I'm your strategic Web3 development partner and a seasoned full-stack blockchain engineer with over 4 years of hands-on experience. I've designed, developed, and launched end-to-end solutions across the entire DApp ecosystem. My track record proves I don't just code – I build
-value-driven blockchain solutions that make waves in the market. Passionate about leveraging technology to solve complex problems and enhance user experiences.
+- I'm not just another developer – I'm your strategic Web3 development partner and a seasoned full-stack blockchain engineer with over 5 years of hands-on experience. I've designed, developed, and launched end-to-end solutions across the entire DApp ecosystem. My track record proves I don't just code – I build value-driven blockchain solutions that make waves in the market. Passionate about leveraging technology to solve complex problems and enhance user experiences.
 
 ### TECHNOLOGY
 
@@ -202,24 +201,24 @@ value-driven blockchain solutions that make waves in the market. Passionate abou
 <b>⚡ Github Stats</b>
     <br />
     <p align="center">
-        <a href="https://github.com/topdev0215?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=topdev0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=topdev0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        <a href="https://github.com/seniorforblockchain?tab=repositories">
+            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seniorforblockchain&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seniorforblockchain&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </p>
 
 </p>
 
-<b>☄️ Github Streaks</b>
+<!-- <b>☄️ Github Streaks</b>
   
   <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" /> -->
 
-
+<!-- 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=topdev0215&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+ -->
 
 
 <br/>  
