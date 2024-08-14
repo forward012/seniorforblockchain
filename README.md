@@ -8,6 +8,15 @@
 ### ABOUT ME
 - I'm not just another developer – I'm your strategic Web3 development partner and a seasoned full-stack blockchain engineer with over 5 years of hands-on experience. I've designed, developed, and launched end-to-end solutions across the entire DApp ecosystem. My track record proves I don't just code – I build value-driven blockchain solutions that make waves in the market. Passionate about leveraging technology to solve complex problems and enhance user experiences.
 
+🔭 I’m currently working on DeFi Vault Project.
+
+🌱 I’m currently learning Smart Contract, WEB3, Blockchain Platforms and Protocols.
+
+👯 I’m looking to collaborate on Investment Platform Project.
+
+🤝 I’m looking for help with GraphQL based DEX Project.
+
+💬 Ask me about Blockchain and Web Development.
 ### TECHNOLOGY
 
 <table align="center">
