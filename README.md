@@ -5,16 +5,6 @@
 
 </h1>
 
-<div align="center"> 
-    <a href="http://github.com/topdev0215?tab=followers">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=topdev0215&color=blue"></a>
-    <a href="http://github.com/topdev0215?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/topdev0215?color=4C1&logo=github"></a>
-    <!-- github -->
-    <a href="http://github.com/topdev0215/topdev0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/topdev0215/topdev0215?label=Profile%20update&style=fflat-square"></a>
-</div>
-<br>
-
 ### ABOUT ME
 - I'm not just another developer – I'm your strategic Web3 development partner and a seasoned full-stack blockchain engineer with over 5 years of hands-on experience. I've designed, developed, and launched end-to-end solutions across the entire DApp ecosystem. My track record proves I don't just code – I build value-driven blockchain solutions that make waves in the market. Passionate about leveraging technology to solve complex problems and enhance user experiences.
 
